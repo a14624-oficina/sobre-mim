@@ -1,15 +1,15 @@
 <!-- HEADER BANNER / TÍTULO -->
 <div align="center">
-  <h1>O TEU NOME</h1>
-  <p><b>SOFTWARE DEVELOPMENT · SYSTEMS · INFRASTRUCTURE</b></p>
+  <h1> José Miguel</h1>
+  <p><b>Gestão programação de sistemas informaticos</b></p>
 </div>
 
 > **Administração de Sistemas,**
 
 <p>
-  <b>LOCALIZAÇÃO</b> VILA NOVA DE FAMALICÃO, PT &nbsp;&nbsp;|&nbsp;&nbsp; 
+  <b>LOCALIZAÇÃO</b>TROFA, PT &nbsp;&nbsp;|&nbsp;&nbsp; 
   <b>INSTITUIÇÃO</b> OFICINA (ESCOLA PROFISSIONAL) &nbsp;&nbsp;|&nbsp;&nbsp; 
-  <b>IDIOMAS</b> PT (C2) | FR (B2) | EN (B1/B2)
+  <b>IDIOMAS</b> PT (C1) | FR (A1) | EN (A2/A2)
 </p>
 
 ---
